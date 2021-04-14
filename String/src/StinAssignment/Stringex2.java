@@ -1,4 +1,4 @@
-package assignment;
+package StinAssignment;
 
 public class Stringex2 {
 	String rev=" ";
